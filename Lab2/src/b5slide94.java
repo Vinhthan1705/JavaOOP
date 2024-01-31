@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class slide94_bai5 {
+public class b5slide94 {
     public static void main(String[] args) {
           Scanner sc = new Scanner(System.in);
          int sum = 0, number;
